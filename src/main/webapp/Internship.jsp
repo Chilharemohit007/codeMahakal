@@ -11,5 +11,6 @@
 <h2>Python Development</h2>
 <h2>Go Development</h2>
 <h2>Data Analyst</h2>
+<h2>Data Scientist</h2>
 </body>
 </html>
